@@ -1,22 +1,42 @@
-# Smart City EV Analytics
+#  Smart City EV Analytics
 
 A Smart City EV Charging and Traffic Analytics Platform built using Python, Node.js, MongoDB, and Data Analytics.
 
-## Project Structure
+##  Project Goals
 
-- backend/
-- frontend/
-- datasets/
-- notebooks/
-- scripts/
-- docs/
-- images/
+- Analyze EV charging station usage
+- Generate realistic EV datasets
+- Perform exploratory data analysis (EDA)
+- Build dashboards
+- Build REST APIs
+- Develop a full-stack analytics platform
 
-## Tech Stack
+##  Tech Stack
 
 - Python
-- Node.js
-- MongoDB
 - Pandas
 - NumPy
+- Faker
+- Matplotlib
+- Seaborn
 - Plotly
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+##  Folder Structure
+
+```
+backend/
+frontend/
+datasets/
+docs/
+images/
+notebooks/
+scripts/
+```
+
+##  Author
+
+Jay Shankar Giri
